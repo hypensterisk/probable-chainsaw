@@ -1,3 +1,3 @@
 /** @format */
 
-await (await import('./src/downloadChannelAudio')).default()
+await (await import('./src/downloadChannelAudio.js')).default()
