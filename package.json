@@ -21,5 +21,17 @@
   "bugs": {
     "url": "https://github.com/hypensterisk/probable-chainsaw/issues"
   },
-  "homepage": "https://github.com/hypensterisk/probable-chainsaw#readme"
+  "homepage": "https://github.com/hypensterisk/probable-chainsaw#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "@types/sharp": "^0.31.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "node-id3": "^0.2.5",
+    "sharp": "^0.31.2",
+    "tube-api": "^1.0.5",
+    "ytdl-core": "^4.11.2"
+  }
 }
