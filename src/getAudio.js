@@ -16,7 +16,7 @@ import getThumbnail from './getThumbnail.js'
  */
 export default async function getAudio(videoDetails, channelDetails) {
   const url = `https://www.youtube.com/watch?v=${videoDetails.video_id}`
-  const output = join(tmpdir(), randomUUID())
+  const output = join(tmpdir(), `${randomUUID()}.mp3`)
   await youtubeDl(url, {
     ffmpegLocation: ffmpegPath,
     extractAudio: true,
