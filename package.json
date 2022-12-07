@@ -29,6 +29,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "ffmpeg-static": "^5.1.0",
+    "filenamify": "^5.1.1",
     "node-id3": "^0.2.5",
     "sharp": "^0.31.2",
     "tube-api": "^1.0.5",
