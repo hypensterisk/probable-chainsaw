@@ -1,0 +1,20 @@
+{
+  "name": "probable-chainsaw",
+  "version": "1.0.0",
+  "description": "CLI App To Download Audio From YT Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypensterisk/probable-chainsaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypensterisk/probable-chainsaw/issues"
+  },
+  "homepage": "https://github.com/hypensterisk/probable-chainsaw#readme"
+}
