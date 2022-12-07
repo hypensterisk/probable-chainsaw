@@ -32,6 +32,6 @@
     "node-id3": "^0.2.5",
     "sharp": "^0.31.2",
     "tube-api": "^1.0.5",
-    "ytdl-core": "^4.11.2"
+    "youtube-dl-exec": "^2.1.10"
   }
 }
