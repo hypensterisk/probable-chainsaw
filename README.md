@@ -16,3 +16,9 @@ The output file will be archived and saved to your ~/Music folder
 ```
 Output: /home/user/Music/channel_title.tar
 ```
+> **Note**\
+> You Need Your Own Youtube API Key
+>```
+>touch .env
+>echo 'API_KEY=<your_api_key>' > .env
+>```
